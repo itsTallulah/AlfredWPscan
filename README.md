@@ -19,7 +19,7 @@ Do your Alfred thing 🎩 then type wpscan. The 5 keywords will pop up to tell y
 `wpscan update example.com` 
 
 # Vulnerability Scanning?
-You'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
+If so, you'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
 
 # Improvements?
 It's hard to git Alfred flows, so if you have ideas, ping me~
