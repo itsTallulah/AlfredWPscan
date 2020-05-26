@@ -24,4 +24,4 @@ If so, you'll need to add an api key from vulndb. Click the `[x]` in the top rig
 # Improvements?
 It's hard to git Alfred flows, so if you have ideas, ping me~
 
-##### thankxies to @trepmal the flow inpirer
+##### thankxies to @trepmal the flow inpirer for https://github.com/Automattic/vip-mega-alfred-workflow
