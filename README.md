@@ -4,7 +4,7 @@ It's WPscan, wrapped in an Alfred workflow.
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
 # How To Install
-Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/WPscanFlow.alfredworkflow) and double click on it.
+Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it.
 
 Also install `wpscan` if you haven't in a terminal with `brew install wpscan`.
 
