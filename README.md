@@ -12,11 +12,11 @@ Also install `wpscan` if you haven't in a terminal with `brew install wpscan`.
 Do your Alfred thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest.
 
 # What are the keywords?
-`wpscan url` 
-`wpscan loadout` 
-`wpscan everything`  
-`wpscan vuln` 
-`wpscan update` 
+`wpscan url example.com` 
+`wpscan loadout example.com` 
+`wpscan everything example.com`  
+`wpscan vuln example.com` 
+`wpscan update example.com` 
 
 # Vulnerability Scanning?
 You'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
