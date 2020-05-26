@@ -1,7 +1,7 @@
 # AlfredWPscan
 It's WPscan, wrapped in an Alfred workflow.
 
-![wpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredflow.png)
+![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
 # How To Install
 Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/WPscanFlow.alfredworkflow) and double click on it.
