@@ -9,7 +9,7 @@ Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan
 Also install `wpscan` if you haven't in a terminal with `brew install wpscan`.
 
 # What Then?
-Do your Alfred thing and type wpscan. The 5 keywords will tell you the rest.
+Do your Alfred thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest.
 
 # What are the keywords?
 `wpscan url` 
@@ -20,5 +20,8 @@ Do your Alfred thing and type wpscan. The 5 keywords will tell you the rest.
 
 # Vulnerability Scanning?
 You'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
+
+# Improvements?
+It's hard to git Alfred flows, so if you have ideas, ping me~
 
 ##### thankxies to @trepmal the flow inpirer
