@@ -1,5 +1,5 @@
 # AlfredWPscan
-It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow.
+It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With differentiated icons.*
 
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
