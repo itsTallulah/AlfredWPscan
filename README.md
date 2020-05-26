@@ -20,4 +20,4 @@ Do your Alfred thing and type wpscan. The 5 keywords will tell you the rest.
 # Vulnerability Scanning?
 You'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
 
-big ups to @trepmal the flow inpirer
+##### thankxies to @trepmal the flow inpirer
