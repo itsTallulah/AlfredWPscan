@@ -9,6 +9,8 @@ Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan
 # Requirements
 [Alfred](https://www.alfredapp.com/), with the [Powerpack](https://www.alfredapp.com/shop/).
 
+[Brew](https://brew.sh/): install from a Terminal with `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)`
+
 [WPscan](https://wpscan.org/). This flow can install it via `wpscan update` if you don't have it.
 
 # How to use?
