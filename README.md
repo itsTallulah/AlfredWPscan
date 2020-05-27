@@ -9,7 +9,7 @@ Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan
 # Requirements
 [Alfred](https://www.alfredapp.com/), with the [Powerpack](https://www.alfredapp.com/shop/).
 
-[WPscan](https://wpscan.org/). Do `wpscan update` and it'll autoinstall via brew if you don't have it.
+[WPscan](https://wpscan.org/). This flow can install it via `wpscan update` if you don't have it.
 
 # How to use?
 Do your usual Alfred invokation thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest. Select one, hit return.
