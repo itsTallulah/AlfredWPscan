@@ -6,10 +6,13 @@ It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
 # How To Install
 Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it.
 
-Also, of course: install `wpscan` if you haven't already in a terminal with `brew install wpscan`.
+# Requirements
+[Alfred](https://www.alfredapp.com/), with the [Powerpack](https://www.alfredapp.com/shop/).
 
-# What Then?
-Do your Alfred thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest.
+[WPscan](https://wpscan.org/). Install on macos with `brew install wpscan` in a `Terminal`.
+
+# How to use?
+Do your usual Alfred invokation thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest. Select one, hit return.
 
 # What are the keywords?
 `wpscan url example.com` 
@@ -19,7 +22,7 @@ Do your Alfred thing 🎩 then type wpscan. The 5 keywords will pop up to tell y
 `wpscan update example.com` 
 
 # Vulnerability Scanning?
-If so, you'll need to add an api key from vulndb. Click the `[x]` in the top right of the workflow for details.
+If so, you'll need to add an api key from vulndb as an environment variable. Click the `[x]` in the top right of the workflow for details.
 
 ![thex](https://github.com/Automattic/vip-mega-alfred-workflow/raw/master/readme-images/settings.png)
 
