@@ -4,7 +4,7 @@ It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
 # How To Install
-Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it.
+Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it then hit Import.
 
 # Requirements
 [Alfred](https://www.alfredapp.com/), with the [Powerpack](https://www.alfredapp.com/shop/).
