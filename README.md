@@ -1,9 +1,9 @@
 # AlfredWPscan
 It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
 
-0.2 changes the cask URL to the official wpscanteam one. If updating and you used another cask before, do `brew wpscan remove` first.
-
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
+
+0.2 changes the cask URL to the official wpscanteam one. If updating and you used another cask before, do `brew wpscan remove` first.
 
 # How To Install
 Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it then hit Import.
