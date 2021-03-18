@@ -1,6 +1,7 @@
 # AlfredWPscan
 It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
-V 0.2 changes the cask URL to the official wpscanteam one.
+
+0.2 changes the cask URL to the official wpscanteam one.
 
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
@@ -15,7 +16,7 @@ Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan
 [WPscan](https://wpscan.org/). This flow can install it via `wpscan update` if you don't have it.
 
 # How to use?
-Do your usual Alfred invokation thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest. Select one, hit return.
+Do your usual Alfred invokation thing 🎩 then type wpscan. The 5 keywords will pop up to tell you the rest. Select one, add the URL and hit return.
 
 # What are the keywords?
 `wpscan url example.com` 
