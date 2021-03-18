@@ -1,7 +1,7 @@
 # AlfredWPscan
 It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
 
-0.2 changes the cask URL to the official wpscanteam one.
+0.2 changes the cask URL to the official wpscanteam one. If updating and you used another cask before, do `brew wpscan remove` first.
 
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
