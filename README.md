@@ -1,5 +1,6 @@
 # AlfredWPscan
 It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
+V 0.2 changes the cask URL to the official wpscanteam one.
 
 ![alfredwpscanflow](https://github.com/itsTallulah/AlfredWPscan/blob/master/alfredwpscanflow.png)
 
@@ -31,4 +32,4 @@ If so, you'll need to add an api key from vulndb as an environment variable. Cli
 # Improvements?
 It's hard to git Alfred flows, so if you have ideas, ping me~
 
-##### thankxies to @trepmal the flow inpirer for https://github.com/Automattic/vip-mega-alfred-workflow
+##### thankxies to @trepmal the flow inspirer for https://github.com/Automattic/vip-mega-alfred-workflow
