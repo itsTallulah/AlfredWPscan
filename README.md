@@ -8,7 +8,7 @@ It's [WPscan](https://wpscan.org/), wrapped in an Alfred workflow. *With icons.*
 If updating from 0.1 or you used another wpscan brew cask before, do `brew wpscan remove` first.
 
 # How To Install
-Download [WPscanFlow.alfredworkflow](https://github.com/itsTallulah/AlfredWPscan/raw/master/WPscanFlow.alfredworkflow) and double click on it then hit Import.
+Download the .alfredworkflow file from this repo and double click on it then hit Import.
 
 # Requirements
 [Alfred](https://www.alfredapp.com/), with the [Powerpack](https://www.alfredapp.com/shop/).
