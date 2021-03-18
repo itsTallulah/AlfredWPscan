@@ -35,6 +35,7 @@ If so, you'll need to add an api key from vulndb as an environment variable. Cli
 # Improvements?
 It's hard to git Alfred flows! Contributions are awkward. Ideas welcomed.
 
-##### thankxies to @trepmal the flow inspirer for https://github.com/Automattic/vip-mega-alfred-workflow
+# Who uses this?
+We do: https://automattic.com/work-with-us/ | https://wpvip.com/careers/
 
-##### Who uses this? We do: https://automattic.com/work-with-us/ | https://wpvip.com/careers/
+##### thankxies to @trepmal the flow inspirer for https://github.com/Automattic/vip-mega-alfred-workflow
